@@ -1,0 +1,11 @@
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\bin\Debug\netcoreapp2.1\senai.Tsushi.mvc.deps.json
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\bin\Debug\netcoreapp2.1\senai.Tsushi.mvc.runtimeconfig.json
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\bin\Debug\netcoreapp2.1\senai.Tsushi.mvc.runtimeconfig.dev.json
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\bin\Debug\netcoreapp2.1\senai.Tsushi.mvc.dll
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\bin\Debug\netcoreapp2.1\senai.Tsushi.mvc.pdb
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\obj\Debug\netcoreapp2.1\senai.Tsushi.mvc.csprojAssemblyReference.cache
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\obj\Debug\netcoreapp2.1\senai.Tsushi.mvc.csproj.CoreCompileInputs.cache
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\obj\Debug\netcoreapp2.1\senai.Tsushi.mvc.AssemblyInfoInputs.cache
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\obj\Debug\netcoreapp2.1\senai.Tsushi.mvc.AssemblyInfo.cs
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\obj\Debug\netcoreapp2.1\senai.Tsushi.mvc.dll
+C:\Users\45684686800\Documents\senai.Tsushi.mvc\obj\Debug\netcoreapp2.1\senai.Tsushi.mvc.pdb
